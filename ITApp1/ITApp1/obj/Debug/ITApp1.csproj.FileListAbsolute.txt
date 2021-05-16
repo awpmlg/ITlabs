@@ -1,0 +1,10 @@
+C:\Users\king\source\repos\ITPractice\ITApp1\ITApp1\bin\Debug\ITApp1.exe.config
+C:\Users\king\source\repos\ITPractice\ITApp1\ITApp1\bin\Debug\ITApp1.exe
+C:\Users\king\source\repos\ITPractice\ITApp1\ITApp1\bin\Debug\ITApp1.pdb
+C:\Users\king\source\repos\ITPractice\ITApp1\ITApp1\obj\Debug\ITApp1.csprojAssemblyReference.cache
+C:\Users\king\source\repos\ITPractice\ITApp1\ITApp1\obj\Debug\ITApp1.Form1.resources
+C:\Users\king\source\repos\ITPractice\ITApp1\ITApp1\obj\Debug\ITApp1.Properties.Resources.resources
+C:\Users\king\source\repos\ITPractice\ITApp1\ITApp1\obj\Debug\ITApp1.csproj.GenerateResource.cache
+C:\Users\king\source\repos\ITPractice\ITApp1\ITApp1\obj\Debug\ITApp1.csproj.CoreCompileInputs.cache
+C:\Users\king\source\repos\ITPractice\ITApp1\ITApp1\obj\Debug\ITApp1.exe
+C:\Users\king\source\repos\ITPractice\ITApp1\ITApp1\obj\Debug\ITApp1.pdb
